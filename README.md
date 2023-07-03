@@ -1,5 +1,5 @@
 # Víctor Sáenz
-### I am a CTO and WordPress Projects Captain at mowomo.com. 
+### I'm CTO and WordPress Projects Captain at mowomo.com. 
 
 ⤷ I actively participate in the WordPress community and collaborate with different official meetups, helping where I can and giving talks about WordPres
 
